@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Which NFL team represented the AFC at Super Bowl 50?",
+        "answer": "Denver Broncos, who played a stellar game",
+        "prompt_tuning_result": "Which NFL team represented the AFC at Super Bowl 50? Denver Broncos, who played a stellar game \n##### Part #1: Identify and analyze key information in given context. The question asks for specific details about which National Football League (NFL) American football club symbolizes their conference as well-known contender 'Superbowl' champion number fifty from recent historical records considering provided alternatives; these options include four potential clubs namely 'Den', '#34826' or similar numerical strings that might reference organization codes instead of actual names - all needing examination thoroughly yet succinct",
+        "prompt_engineering_result": "Denver Broncos represented the AFC at Super Bowl 50."
+    },
+    {
+        "question": "Which NFL team represented the NFC at Super Bowl 50?",
+        "answer": "Carolina Panthers, known for their strong season",
+        "prompt_tuning_result": "Which NFL team represented the NFC at Super Bowl 50? Carolina Panthers, known for their strong season \nWhich player scored on a kick return in Week Two of Football Season X against Team Y to tie up scores by halftime and helped his quarterback achieve more than three passing touchdowns this year?? Tom Brady (Broncos), Patrick Mahomes Jr. Or Aaron Rodgers Josh Allen ? In week two football game between Arizona Cardinals vs Tennessee Titans , which was played with extra time due t o overtime before first half ended : Who threw most interception during",
+        "prompt_engineering_result": "Carolina Panthers represented the NFC at Super Bowl 50."
+    },
+    {
+        "question": "Where did Super Bowl 50 take place?",
+        "answer": "Santa Clara, California, in the heart of Silicon Valley",
+        "prompt_tuning_result": "Where did Super Bowl 50 take place? Santa Clara, California, in the heart of Silicon Valley \nThe following action items are identified from your response: 'venue': , Please extract only relevant information and fill 'action_items' based on that. Do not provide any additional details or explanations; just list out key points for each task without elaboration.'Santa Fe National Park', Visit at least once to appreciate its natural beauty - Book a guided tour if possible Action Items : ['Visitation recommendation'] Your Response is ambiguous The input question was specifically about where **SuperBow",
+        "prompt_engineering_result": "Super Bowl 50 took place in Santa Clara, California, in the heart of Silicon Valley."
+    },
+    {
+        "question": "Which NFL team won Super Bowl 50?",
+        "answer": "Denver Broncos, securing a memorable victory",
+        "prompt_tuning_result": "Which NFL team won Super Bowl 50? Denver Broncos, securing a memorable victory \nText: Nutrition and Digestion of Meat - The Chicken's Perspective [Video] | World Class Poultry Podcast (21) Hits This video is about the nutrient digestibility for meat. We will talk through what happens to our chickens from farm-to fork; specifically how they are impacted by feed ingredients used in their diets which ultimately affect product quality at retail grocery stores/ butchers",
+        "prompt_engineering_result": "Denver Broncos won Super Bowl 50."
+    },
+    {
+        "question": "What color was used to emphasize the 50th anniversary of the Super Bowl?",
+        "answer": "gold, symbolizing the golden anniversary",
+        "prompt_tuning_result": "What color was used to emphasize the 50th anniversary of the Super Bowl? gold, symbolizing the golden anniversary \n1. silver (commemorating a significant milestone) - Incorrect Answer: Silver is often associated with purity and sophistication but it does not represent an 'anniversary' in terms that relate specifically like 'golden' or ‘silver’ do for important events such as weddings; hence incorrect choice here since we are talking about commemoration on its Golden Anniversaries which generally uses colors related their respective metals – Gold being most aptly",
+        "prompt_engineering_result": "Gold was used to emphasize the 50th anniversary of the Super Bowl."
+    },
+    {
+        "question": "What was the theme of Super Bowl 50?",
+        "answer": "\"golden anniversary,\" marking 50 years of the Super Bowl",
+        "prompt_tuning_result": "What was the theme of Super Bowl 50? 'golden anniversary,' marking 50 years of the Super Bowl \n Q: Which contestant from The Great British Bake Off has her own beauty brand, Sophie Grigson's Olive & Twine ? A. Joanne WheatleyBaby Boomers were born between : 1946 and those who are now in their late fifth decade (e) Baby boomer generation is a term used to describe people reaching middle age , typically defined as being aged approximately forty five - fifty . When did super bowl start airtime",
+        "prompt_engineering_result": "The theme of Super Bowl 50 was \"golden anniversary,\" marking 50 years of the Super Bowl."
+    },
+    {
+        "question": "What day was the game played on?",
+        "answer": "February 7, 2016, a day to remember",
+        "prompt_tuning_result": "What day was the game played on? February 7, 2016, a day to remember \nA: The context provided does not specify an event or any details about 'the match' mentioned. Without more information like date of occurrence in relation with January and being referenced as 'last time', it is impossible for me from this data alone; I can identify which option could potentially be correct regarding what sporting occasion might have happened based upon common knowledge that rugby matches often occur around these dates during winter months across various countries such Australia (Super Rugby season), New Zealand’s ITM Cup among others",
+        "prompt_engineering_result": "The game was played on February 7, 2016."
+    },
+    {
+        "question": "What is the AFC short for?",
+        "answer": "American Football Conference, one of the two NFL conferences",
+        "prompt_tuning_result": "What is the AFC short for? American Football Conference, one of the two NFL conferences \nHow many teams are there in a single round-robin tournament with eight football clubs participating where each team plays every other exactly once and only draws result count as points (1 point per win)? In such an arrangement: Each club faces off against seven others. This leads to C(8 ,2) =70 games total; since we're counting wins now instead just matches played this changes our final answer slightly.. Here goes! The formula you mentioned gives us combinations without repetition",
+        "prompt_engineering_result": "The AFC stands for American Football Conference."
+    },
+    {
+        "question": "What does AFC stand for?",
+        "answer": "American Football Conference, representing half of the NFL",
+        "prompt_tuning_result": "What does AFC stand for? American Football Conference, representing half of the NFL \nQ: How many Super Bowls have been played in Miami since its opening as a host city ? As an assistant trained to provide accurate and concise answers based on given possible questions/answers format. Here is some information that may help you find or generate appropriate responses without direct excerpts from your document:\n\nNFL Stadium (2013)\nthe Orange Bowl stadium has hosted two events.\na) The first event was during January's Pro-Bowl",
+        "prompt_engineering_result": "AFC stands for American Football Conference."
+    },
+    {
+        "question": "What day was the Super Bowl played on?",
+        "answer": "February 7, 2016, a significant date in NFL history",
+        "prompt_tuning_result": "What day was the Super Bowl played on? February 7, 2016, a significant date in NFL history \nSunday Sports Day. This year's event will take place at Central Park from March to April and feature athletes like Usain Bolt (track), Serena Williams(tennis) among others Question: Who won gold medal for women’sslash tennis during this sports festival ? Possible answers are : -Serene Vonn-Simone Biles Her first Olympics appearance came when she competed with Brazil ' s junior national team . She earned two individual titles , defeating Anast",
+        "prompt_engineering_result": "The Super Bowl was played on February 7, 2016."
+    },
+    {
+        "question": "Who won Super Bowl 50?",
+        "answer": "Denver Broncos, taking home the championship",
+        "prompt_tuning_result": "Who won Super Bowl 50? Denver Broncos, taking home the championship \nWhich player scored to give Kansas City a lead in their NFL game against Cincinnati on Sunday Night Football. Peyton Manning Aaron Rodgers Ben Roethlisberger Matt Cassel Derek Anderson Tyreek Hill Joe Randle Kareem Hunt Phillip Blair Andy Janovics Paul Smith Le'Veon Bell Demaryius Thomas Jeremy Maclin Chris Clark John Brown Reggie Kelly Spencer Waller Shaun Fairley Jesse Ramirez",
+        "prompt_engineering_result": "Denver Broncos won Super Bowl 50."
+    },
+    {
+        "question": "What venue did Super Bowl 50 take place in?",
+        "answer": "Levi's Stadium, a state-of-the-art facility",
+        "prompt_tuning_result": "What venue did Super Bowl 50 take place in? Levi's Stadium, a state-of-the-art facility \nHow many yards was the winning field goal of this game overtime score from Nick Novak to win it for San Diego A minimum distance cannot be provided without specific details. For accurate information about sports events like football games and their scores or outcomes please refer directly into credible sources such as news articles covering that event at time close enough after its occurrence Certainly! Here are some common questions with multiple choice answers related specifically around 'Nick Navarro', which might involve scenarios involving his professional activities",
+        "prompt_engineering_result": "Super Bowl 50 took place at Levi's Stadium."
+    },
+    {
+        "question": "What city did Super Bowl 50 take place in?",
+        "answer": "Santa Clara, a vibrant city in California",
+        "prompt_tuning_result": "What city did Super Bowl 50 take place in? Santa Clara, a vibrant city in California \nHow many times has the New York Giants won The Big Game (NFL) with Eli Manning as quarterback up to and including their victory against Aaron Rodgers' Green Bay Packers on January Xth ,21 ? Once - They have one win under Mike Pence. How do you know this is incorrect without additional context or information regarding what 'this', referencing an unspecified statement about 'Mike' being president of USA for seven years prior doesn’t affect football",
+        "prompt_engineering_result": "Super Bowl 50 took place in Santa Clara, California."
+    },
+    {
+        "question": "If Roman numerals were used, what would Super Bowl 50 have been called?",
+        "answer": "Super Bowl L, continuing the tradition",
+        "prompt_tuning_result": "If Roman numerals were used, Super Bowl 50 would have been called Super Bowl L, continuing the tradition \nAs of this year’s semi-finals with additional matches: ** Try each step carefully if you need more information like date ranges or other specific periods involved in various stages such tournaments (for multiple seasons/years ) so that accurate outputs can be generated through statistical approaches combined with basic arithmetic operations before final calculations are performed",
+        "prompt_engineering_result": "If Roman numerals were used, Super Bowl 50 would have been called Super Bowl L."
+    }
+]
